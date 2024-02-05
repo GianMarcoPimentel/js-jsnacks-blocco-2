@@ -18,4 +18,3 @@ do{
 }while(array.length < 50);
 
 document.getElementById("array").innerHTML = `L'array finale è composta da array = [${array}]`;
-
